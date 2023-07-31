@@ -1,0 +1,30 @@
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\practicals\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+D:\practicals\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+D:\practicals\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+D:\practicals\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+D:\practicals\ConsoleApp4\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+D:\practicals\ConsoleApp4\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\Lakdilu\Desktop\CS107.3-27866-main\practicle 1\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
